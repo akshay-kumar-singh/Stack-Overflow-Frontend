@@ -5,23 +5,19 @@ This is the frontend repository for the StackOverflow clone project. The fronten
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/stackoverflow-clone-frontend.git
+
+git clone https://github.com/akshay-kumar-singh/Stack-Overflow-Frontend.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd stackoverflow-clone-frontend
 Install dependencies:
 
-Copy code
 npm install
 Usage
 To start the development server:
 
-sql
-Copy code
+
 npm start
 This will open the application in your default web browser.
 
